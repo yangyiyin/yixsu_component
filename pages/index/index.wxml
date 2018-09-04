@@ -1,0 +1,22 @@
+<view class="container">
+
+    <text style="padding: 0 30rpx;color: #999">
+        组件库正在不断完善中,也欢迎设计师或者开发者加入到我们,一起打磨精品组件.联系qq:178340042
+    </text>
+    <view style="100%">
+
+        <navigator url="/pages/input/index" class="item"> <button type="default" size="default" > input<text class="tips">(输入框)</text> </button></navigator>
+        <navigator url="/pages/select/index" class="item"> <button type="default" size="default" > select <text class="tips">(选择框)</text></button></navigator>
+        <navigator url="/pages/modal/index" class="item"> <button type="default" size="default"> modal <text class="tips">(自定义对话框)</text></button></navigator>
+        <navigator url="/pages/msg_bar/index" class="item"> <button type="default" size="default" > msg_bar <text class="tips">(滚动消息栏)</text></button></navigator>
+        <navigator url="/pages/round_menu/index" class="item"> <button type="default" size="default" > round_menu <text class="tips">(圆环菜单)</text></button></navigator>
+        <navigator url="/pages/upload/index" class="item"> <button type="default" size="default" > upload <text class="tips">(头像上传)</text></button></navigator>
+        <navigator url="/pages/title_bar/index" class="item"> <button type="default" size="default" > title_bar <text class="tips">(标题栏)</text></button></navigator>
+        <navigator url="/pages/loading/index" class="item"> <button type="default" size="default" > loading <text class="tips">(全局加载)</text></button></navigator>
+
+    </view>
+
+
+
+
+</view>

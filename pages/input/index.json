@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "yxs_input":"../../yixsu_component/yxs_input/index"
+  }
+}

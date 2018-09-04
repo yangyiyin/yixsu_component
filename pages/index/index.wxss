@@ -1,0 +1,8 @@
+.item{
+    display: inline-block;
+    margin-top: 20rpx;
+    margin-left: 20rpx;
+}
+.tips{
+    font-size: 22rpx;
+}
